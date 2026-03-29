@@ -27,3 +27,19 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhamibhupendra97@gmail.com)
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhamibhupendra97-afk)
+
+## Connect with me
+<p align="left">
+  <a href="https://github.com/dhamibhupendra97-afk">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40"/>
+  </a>
+</p>
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/dhamibhupendra97-afk/snk/blob/output/github-contribution-grid-snake.svg)
